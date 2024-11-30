@@ -25,6 +25,7 @@ Gem::Specification.new do |spec|
     'homepage_uri'      => 'https://github.com/thekompanee/fuubar',
     'source_code_uri'   => 'https://github.com/thekompanee/fuubar',
     'wiki_uri'          => 'https://github.com/thekompanee/fuubar/wiki',
+    'funding_uri'       => 'https://github.com/sponsors/jfelchner',
   }
 
   spec.add_dependency             'rspec-core',       ["~> 3.0"]
